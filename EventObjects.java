@@ -1,4 +1,4 @@
-package com.datacubeinfo.bukinapp;
+package com.example.demo;
 import java.util.Date;
 public class EventObjects {
     private int id;

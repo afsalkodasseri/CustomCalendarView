@@ -1,4 +1,4 @@
-package com.datacubeinfo.bukinapp;
+package com.example.demo;
 import android.content.Context;
 import android.graphics.Color;
 import android.util.AttributeSet;

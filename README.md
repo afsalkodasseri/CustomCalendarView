@@ -11,7 +11,7 @@ change the package names in your java files.
 
 -And create the component in your activity layout
  
-    <com.datacubeinfo.bukinapp.CustomCalenderView
+    <com.your_app_package.CustomCalenderView
         android:id="@+id/mycal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
